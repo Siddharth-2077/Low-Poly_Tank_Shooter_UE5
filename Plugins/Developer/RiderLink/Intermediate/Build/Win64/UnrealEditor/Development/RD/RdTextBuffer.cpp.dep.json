@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\siddh\\documents\\unreal projects\\toon_tanks\\toontanksprojectsetup_4.25\\toontanks\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\siddh\\documents\\unreal projects\\toon_tanks\\toontanksprojectsetup_4.25\\toontanks\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "c:\\users\\siddh\\documents\\unreal projects\\toon_tanks\\toontanksprojectsetup_4.25\\toontanks\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_gen_cpp\\src\\rdtextbuffer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
